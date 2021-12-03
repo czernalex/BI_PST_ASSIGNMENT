@@ -1,0 +1,1 @@
+# FIT CTU BI-PST B211 Repository
